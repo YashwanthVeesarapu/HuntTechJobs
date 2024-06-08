@@ -17,7 +17,7 @@ def format_date(timestamp):
     return datetime.datetime.fromtimestamp(timestamp).strftime("%b %d")
 
 # Get the current date in the desired format
-current_date = datetime.datetime.now().strftime("%b %d")
+current_date = datetime.datetime.now().strftime("%b %d, %Y")
 
 # Format the data into a markdown table
 job_listings = "| Job Title | Company | Location | Date Posted | Apply |\n"
