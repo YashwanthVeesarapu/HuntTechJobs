@@ -30,8 +30,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@users.noreply.github.com'
+          git config --global user.name 'YashwanthReddyVeesarapu'
+          git config --global user.email 'yashwanthreddyveesarapu@gmail.com'
           git add README.md
           git commit -m 'Update README with latest job listings'
           git push
