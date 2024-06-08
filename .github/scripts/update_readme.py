@@ -22,7 +22,7 @@ current_date = datetime.datetime.now().strftime("%b %d, %Y")
 # Format the data into a markdown table
 job_listings = "| Job Title | Company | Location | Date Posted | Apply |\n"
 job_listings += "|-----------|---------|----------|-------------|------------|\n"
-for job in data[:50]:  # Limit to the first 50 jobs
+for job in data:  # Limit to the first 50 jobs
     job_listings += (
         f"| **{job['title']}** | {job['company_name']} | {', '.join(job['locations'])} | "
         f"{format_date(job['date_posted'])} | "
