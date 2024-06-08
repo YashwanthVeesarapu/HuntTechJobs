@@ -12,18 +12,20 @@ if response.status_code != 200:
 
 data = response.json()
 
-# Format the data (customize this based on your API response structure)
-job_listings = ""
-for job in data:
-    job_listings += (
-        f"- **[{job['title']}]({job['url']})** at {job['company_name']} - "
-        f"{', '.join(job['locations'])} (Posted on {datetime.datetime.fromtimestamp(job['date_posted']).strftime('%Y-%m-%d')})\n"
-    )
-
 # Get the current date
 current_date = datetime.datetime.now().strftime("%Y-%m-%d")
 
-# Update the README
+# Format the data into a markdown table
+job_listings = "| Job Title | Company | Location | Date Posted | Apply Link |\n"
+job_listings += "|-----------|---------|----------|-------------|------------|\n"
+for job in data:
+    job_listings += (
+        f"| **{job['title']}** | {job['company_name']} | {', '.join(job['locations'])} | "
+        f"{datetime.datetime.fromtimestamp(job['date_posted']).strftime('%Y-%m-%d')} | "
+        f"[Apply]( {job['url']} ) |\n"
+    )
+
+# Update the README content
 readme_content = f"""
 # Tech Job Listings
 
