@@ -1,7 +1,7 @@
 
 # Tech Job Listings
 
-*Updated on Jun 16, 2024*
+*Updated on Jun 17, 2024*
 
 
 ## About This Repository
@@ -43,6 +43,8 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 
 | Job Title | Company | Location | Date Posted | Apply |
 |-----------|---------|----------|-------------|------------|
+| **Staff Engineer, Cloud Billing** | MONGODB INC | New York City | Jun 17 | <a href="https://www.mongodb.com/careers/job/?gh_jid=6019325&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
+| **Software Engineer, Backend (Schemas)** | BENCHLING INC | San Francisco, CA | Jun 17 | <a href="https://boards.greenhouse.io/benchling/jobs/6022683?gh_jid=6022683&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Senior Data Analyst** | PREZZEE INC | Sydney, Australia | Jun 16 | <a href="https://boards.greenhouse.io/prezzee/jobs/4377960006?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Senior Data Scientist** | ROKU INC | Austin, Texas | Jun 15 | <a href="https://www.weareroku.com/jobs/5773408?gh_jid=5773408&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Manager Data Engineer** | ALTERA DIGITAL HEALTH INC | Remote - US | Jun 14 | <a href="https://boards.greenhouse.io/alteradigitalhealth/jobs/4372744007?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
@@ -141,6 +143,4 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 | **Lead Data Scientist - Technical Curriculum Development** | DATABRICKS INC | San Francisco, California | Jun 13 | <a href="https://databricks.com/company/careers/open-positions/job?gh_jid=7314013002&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Analytics Engineer I** | Search Discovery | Atlanta, GA | Jun 12 | <a href="https://boards.greenhouse.io/searchdiscovery/jobs/6034609" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Software Engineer (L5) - Experimentation Platform** | NETFLIX INC | Remote, United States | Jun 12 | <a href="https://jobs.lever.co/netflix/590d2c80-c9aa-4974-8e54-dca7efbd7168" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Sr Regional Sales Executive - Azure / Cloud (Remote) ** | ALTERA DIGITAL HEALTH INC | Seattle, Washington, United States | Jun 12 | <a href="https://boards.greenhouse.io/alteradigitalhealth/jobs/4407758007?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Sr Regional Sales Executive - Azure / Cloud (Remote) ** | ALTERA DIGITAL HEALTH INC | Dallas, Texas, United States | Jun 12 | <a href="https://boards.greenhouse.io/alteradigitalhealth/jobs/4407755007?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 
