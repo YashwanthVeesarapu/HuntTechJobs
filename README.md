@@ -1,7 +1,7 @@
 
 # Tech Job Listings
 
-*Updated on Jul 09, 2024*
+*Updated on Jul 10, 2024*
 
 
 ## About This Repository
@@ -139,8 +139,8 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 | **Software Engineer - Alerting Platform Automation** | DATADOG INC | Paris, France; Madrid, Spain; Nantes, France; Lyon, France; Bordeaux, France; Sophia Antipolis, France; Grenoble, France; Montpellier, France; | Jul 04 | <a href="https://careers.datadoghq.com/detail/6092341/?gh_jid=6092341&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Senior Software Engineer, Platform App Services (GovCloud)** | OKTA INC | San Francisco, CA | Jul 04 | <a href="https://www.okta.com/company/careers/opportunity/5939575?gh_jid=5939575&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Data Scientist I - Marketing Analytics** | Match Group | Hollywood, LA | Jul 03 | <a href="https://jobs.lever.co/matchgroup/d1083f08-dde7-437b-a922-a40a7bf77cfc/apply" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Data Analyst Job ID 2024** | Internet Brands | El Segundo, CA | Jul 03 | <a href="https://jobs.jobvite.com/internetbrands/job/oYIZtfwS?nl=1&nl=1&fr=false" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Staff Software Applications Engineer (DC/SD)** | SHIELD AI INC | Dallas Metro Area | Jul 03 | <a href="https://jobs.lever.co/shieldai/e534eaeb-4a8f-4ff9-9bae-3759d34b7b65?lever-source=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Senior Data Engineer** | AMYRIS INC | US-Emeryville, CA | Jul 03 | <a href="https://jobs.lever.co/amyris/f0f9833c-6806-491c-9047-0ca78da1c5b8?lever-source=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Senior Software Engineer** | SCIENCE CORPORATION | Alameda, California, United States | Jul 03 | <a href="https://boards.greenhouse.io/science/jobs/5223434004?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
+| **Data Scientist I, Marketing Analytics** | MATCH GROUP LLC | West Hollywood, California | Jul 03 | <a href="https://jobs.lever.co/matchgroup/d1083f08-dde7-437b-a922-a40a7bf77cfc?lever-source=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 
