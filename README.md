@@ -1,7 +1,7 @@
 
 # Tech Job Listings
 
-*Updated on Aug 04, 2024*
+*Updated on Aug 05, 2024*
 
 
 ## About This Repository
@@ -43,7 +43,12 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 
 | Job Title | Company | Location | Date Posted | Apply |
 |-----------|---------|----------|-------------|------------|
+| **Senior Software Engineer** | Microsoft | Redmond, Washington, United States | Aug 05 | <a href="https://jobs.careers.microsoft.com/us/en/job/1743702" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
+| **Software Engineer** | Microsoft | Redmond, Washington, United States | Aug 05 | <a href="https://jobs.careers.microsoft.com/us/en/job/1742920" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
+| **UI Developer (Angular)** | HITACHI DIGITAL SERVICES LLC | Dallas, Texas | Aug 05 | <a href="https://hitachids.com/careers/job-details/?jid=7581522002&gh_jid=7581522002&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
+| **Software Engineer II - CTJ - Poly** | Microsoft | Reston, Virginia, United States | Aug 04 | <a href="https://jobs.careers.microsoft.com/us/en/job/1728727" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Claris - Backend Software Engineer In Test** | Apple | Sunnyvale | Aug 03 | <a href="https://jobs.apple.com/en-us/details/200561203" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
+| **Principal Software Engineer** | Microsoft | Redmond, Washington, United States | Aug 03 | <a href="https://jobs.careers.microsoft.com/us/en/job/1723463" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **SDE II - Frontend** | NIUM INC | San Francisco | Aug 03 | <a href="https://jobs.lever.co/nium/d5d9634b-5f5b-45b2-8b34-1b6cbdbc8fe9?lever-source=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Software Engineer, Infrastructure** | TOPAZ LABS LLC | Dallas, TX | Aug 03 | <a href="https://jobs.lever.co/topazlabs/88de5f94-6216-4c66-9839-c5a93e604203?lever-source=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **App Store Software Engineer - Desktop and Mobile Client Apps** | Apple | Seattle | Aug 02 | <a href="https://jobs.apple.com/en-us/details/200561665" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
@@ -138,9 +143,4 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 | **Senior Producer, Pokémon Go** | NIANTIC INC | San Francisco, CA | Aug 02 | <a href="https://job-boards.greenhouse.io/niantic/jobs/7578968002?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Producer, Pokémon Go** | NIANTIC INC | Seattle, WA | Aug 02 | <a href="https://job-boards.greenhouse.io/niantic/jobs/7578965002?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Producer, Pokémon Go** | NIANTIC INC | San Francisco, CA | Aug 02 | <a href="https://job-boards.greenhouse.io/niantic/jobs/7578963002?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Software Engineer, Retail Technology** | Apple | Sunnyvale | Aug 02 | <a href="https://jobs.apple.com/en-us/details/200561128" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Senior Software Engineer, Retail Technology** | Apple | Sunnyvale | Aug 02 | <a href="https://jobs.apple.com/en-us/details/200561563" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Principal Software Engineer, Networking** | Microsoft | Redmond, Washington, United States | Aug 01 | <a href="https://jobs.careers.microsoft.com/us/en/job/1746339" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Senior Software Engineer** | Microsoft | Redmond, Washington, United States | Aug 01 | <a href="https://jobs.careers.microsoft.com/us/en/job/1728146" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Principal Software Engineer** | Microsoft | Redmond, Washington, United States | Aug 01 | <a href="https://jobs.careers.microsoft.com/us/en/job/1720764" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 
