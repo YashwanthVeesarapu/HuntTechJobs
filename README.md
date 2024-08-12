@@ -1,7 +1,7 @@
 
 # Tech Job Listings
 
-*Updated on Aug 11, 2024*
+*Updated on Aug 12, 2024*
 
 
 ## About This Repository
@@ -43,6 +43,9 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 
 | Job Title | Company | Location | Date Posted | Apply |
 |-----------|---------|----------|-------------|------------|
+| **Software Engineer - Buffalo, NY (Hybrid)** | CENTIVO CORPORATION | Buffalo, New York, United States | Aug 12 | <a href="https://centivo.com/working-at-centivo/?gh_jid=5253625004&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
+| **Senior Software Engineer, Machine Learning (Ads Conversion Modeling)** | REDDIT INC | Remote - United States | Aug 12 | <a href="https://boards.greenhouse.io/reddit/jobs/6157814?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
+| **Software Engineer II** | ZYNGA INC | United States of America | Aug 12 | <a href="https://boards.greenhouse.io/zynga/jobs/5253453004?gh_jid=5253453004&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **ISE, Incubation - Sr. Machine Learning Engineer** | Apple | Seattle | Aug 10 | <a href="https://jobs.apple.com/en-us/details/200482092" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Software Development Engineering Manager, Framework Internal Apps** | Apple | San Diego | Aug 10 | <a href="https://jobs.apple.com/en-us/details/200553168" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Software Development Engineer in Test** | PLATFORM SCIENCE INC | San Diego, CA | Aug 10 | <a href="https://boards.greenhouse.io/platformscience/jobs/6084776003?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
@@ -104,8 +107,8 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 | **Senior Software Engineer, Machine Learning** | DISCORD INC | San Francisco, CA (or Remote) | Aug 09 | <a href="https://job-boards.greenhouse.io/discord/jobs/7590917002?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Senior Software Engineer, Machine Learning - Ads (Quests)** | DISCORD INC | San Francisco, CA (or Remote) | Aug 09 | <a href="https://job-boards.greenhouse.io/discord/jobs/7590912002?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Senior Software Engineer** | ANGI INC | New York - Remote | Aug 09 | <a href="https://job-boards.greenhouse.io/angi/jobs/7590901002?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Data Engineer** | ALTEN TECHNOLOGY USA INC | North Reading, MA | Aug 09 | <a href="https://job-boards.greenhouse.io/altentechnologyusa/jobs/4474519007?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Director, Data Science & Machine Learning** | ANGI INC | New York - Remote | Aug 09 | <a href="https://job-boards.greenhouse.io/angi/jobs/7590877002?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
+| **Data Engineer** | ALTEN TECHNOLOGY USA INC | North Reading, MA | Aug 09 | <a href="https://job-boards.greenhouse.io/altentechnologyusa/jobs/4474519007?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Director, Data Science & Machine Learning** | ANGI INC | Washington - Remote | Aug 09 | <a href="https://job-boards.greenhouse.io/angi/jobs/7590875002?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Sr. Data Engineer** | SMARTSHEET INC | Bellevue, WA, USA | Aug 09 | <a href="https://job-boards.greenhouse.io/smartsheet/jobs/6151202?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Business Operations Analyst** | ZYNGA INC | United States of America | Aug 09 | <a href="https://boards.greenhouse.io/zynga/jobs/5248816004?gh_jid=5248816004&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
@@ -140,7 +143,4 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 | **Software Engineer, Android** | LYFT INC | New York, NY | Aug 09 | <a href="https://app.careerpuck.com/job-board/lyft/job/7526054002?gh_jid=7526054002&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Senior Software Engineer, Full-stack** | PATHAI INC | Boston, MA or Remote | Aug 09 | <a href="https://www.pathai.com/careers/7589907002?gh_jid=7589907002&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Senior Software Engineer, Observability** | ROKU INC | Boston, Massachusetts | Aug 09 | <a href="https://www.weareroku.com/jobs/6166957?gh_jid=6166957&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Wireless Software Developer** | Apple | San Diego | Aug 09 | <a href="https://jobs.apple.com/en-us/details/200538140" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **AIML - Machine Learning Engineer, Siri and Information Intelligence** | Apple | Cambridge | Aug 09 | <a href="https://jobs.apple.com/en-us/details/200562478" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Software Engineer II** | Microsoft | Redmond, Washington, United States | Aug 09 | <a href="https://jobs.careers.microsoft.com/us/en/job/1751335" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 
