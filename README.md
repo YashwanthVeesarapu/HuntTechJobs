@@ -1,7 +1,7 @@
 
 # Tech Job Listings
 
-*Updated on Aug 24, 2024*
+*Updated on Aug 25, 2024*
 
 
 ## About This Repository
@@ -43,6 +43,7 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 
 | Job Title | Company | Location | Date Posted | Apply |
 |-----------|---------|----------|-------------|------------|
+| **Backend Engineer - Ranking Foundation** | REDDIT INC | Remote - British Columbia, Canada | Aug 24 | <a href="https://boards.greenhouse.io/reddit/jobs/6121376?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Lead Software Development Engineer in Test - Consumer Products** | COINBASE INC | Remote - USA | Aug 24 | <a href="https://www.coinbase.com/careers/positions/6202683?gh_jid=6202683&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Sr. Staff Software Engineer** | SONATUS INC | Sunnyvale, CA (Hybrid) | Aug 23 | <a href="https://jobs.lever.co/sonatus/086e71eb-7919-4443-81df-d4719f0133d4?lever-source=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Director - Cloud FinOps ** | COHESITY INC | United States | Aug 23 | <a href="http://www.cohesity.com/company/careers/open-positions/?gh_jid=6146128&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
@@ -83,8 +84,8 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 | **Senior Software Engineer - Groups** | KLAVIYO INC | Boston, MA | Aug 23 | <a href="http://www.klaviyo.com/careers/jobs?gh_jid=6090096003&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Senior Software Engineer - UI Systems** | ROBLOX CORPORATION | San Mateo, CA, United States | Aug 23 | <a href="https://careers.roblox.com/jobs/6199529?gh_jid=6199529&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Senior Financial Analyst II, Financial Planning & Analysis** | BRAZE INC | San Francisco | Aug 23 | <a href="https://boards.greenhouse.io/braze/jobs/6193607?gh_jid=6193607&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Senior Financial Analyst II, Financial Planning & Analysis** | BRAZE INC | Chicago | Aug 23 | <a href="https://boards.greenhouse.io/braze/jobs/6193604?gh_jid=6193604&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Senior Financial Analyst II, Financial Planning & Analysis** | BRAZE INC | New York City | Aug 23 | <a href="https://boards.greenhouse.io/braze/jobs/6193599?gh_jid=6193599&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
+| **Senior Financial Analyst II, Financial Planning & Analysis** | BRAZE INC | Chicago | Aug 23 | <a href="https://boards.greenhouse.io/braze/jobs/6193604?gh_jid=6193604&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Senior Financial Analyst II, Financial Planning & Analysis** | BRAZE INC | Austin | Aug 23 | <a href="https://boards.greenhouse.io/braze/jobs/6193344?gh_jid=6193344&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **AI Researcher - PhD Intern (2025)** | FIGMA INC | San Francisco, CA • New York, NY | Aug 23 | <a href="https://job-boards.greenhouse.io/figma/jobs/5258692004?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Senior Software Engineer - Code Analysis** | DATADOG INC | New York, New York, USA | Aug 23 | <a href="https://careers.datadoghq.com/detail/6202175/?gh_jid=6202175&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
@@ -142,5 +143,4 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 | **Frontend ReactJS Developer** | APERIA SOLUTIONS INC | United States Remote | Aug 22 | <a href="https://boards.greenhouse.io/aperiasolutions/jobs/4487103007?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Senior Data Engineer (P4285) ** | 84.51 LLC | Cincinnati, OH; Chicago, IL | Aug 22 | <a href="https://job-boards.greenhouse.io/8451/jobs/7606556002?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Staff Software Engineer** | MARQETA INC | Vancouver, Canada | Aug 21 | <a href="https://boards.greenhouse.io/marqeta/jobs/6198008?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Associate Red Team Security Consultant, Mandiant, Google Cloud** | Google | Boulder, CO, USA | Aug 21 | <a href="https://www.google.com/about/careers/applications/jobs/results/87655698912944838" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 
