@@ -1,7 +1,7 @@
 
 # Tech Job Listings
 
-*Updated on Sep 01, 2024*
+*Updated on Sep 02, 2024*
 
 
 ## About This Repository
@@ -43,6 +43,7 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 
 | Job Title | Company | Location | Date Posted | Apply |
 |-----------|---------|----------|-------------|------------|
+| **Software Engineer Intern, Summer 2025 ** | WHATNOT INC | San Francisco, CA - Los Angeles, CA - New York, NY | Sep 01 | <a href="https://job-boards.greenhouse.io/whatnot/jobs/5247639004?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Senior Software Engineer** | ZYNGA INC | United States of America | Aug 31 | <a href="https://boards.greenhouse.io/zynga/jobs/5292769004?gh_jid=5292769004&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Senior Software Engineer - Cloud API ** | ROBLOX CORPORATION | San Mateo, CA, United States | Aug 30 | <a href="https://careers.roblox.com/jobs/6225054?gh_jid=6225054&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Software Engineer** | ASCEND ANALYTICS LLC | Boulder, CO | Aug 30 | <a href="https://boards.greenhouse.io/ascendanalytics/jobs/4467850005?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
@@ -142,5 +143,4 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 | **Senior Data Engineer** | DATAVANT INC | Remote, United States | Aug 28 | <a href="https://www.datavant.com/about/careers/salaried-roles?gh_jid=7598757002&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Staff Software Engineer** | SIMPLISAFE INC | Boston, MA | Aug 28 | <a href="https://boards.greenhouse.io/simplisafe/jobs/6200133?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Staff Machine Learning Engineer** | SURVEYMONKEY INC | US - Remote | Aug 28 | <a href="https://boards.greenhouse.io/surveymonkey/jobs/6213224?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Staff Machine Learning Engineer, Price Modeling** | AIRBNB INC | United States | Aug 28 | <a href="https://careers.airbnb.com/positions/6188266?gh_jid=6188266&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 
