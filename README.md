@@ -1,7 +1,7 @@
 
 # Tech Job Listings
 
-*Updated on Sep 14, 2024*
+*Updated on Sep 15, 2024*
 
 
 ## About This Repository
