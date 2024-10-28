@@ -1,7 +1,7 @@
 
 # Tech Job Listings
 
-*Updated on Oct 27, 2024*
+*Updated on Oct 28, 2024*
 
 
 ## About This Repository
@@ -43,6 +43,7 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 
 | Job Title | Company | Location | Date Posted | Apply |
 |-----------|---------|----------|-------------|------------|
+| **AIML - ML Research Engineer, MIND** | Apple | Seattle | Oct 27 | <a href="https://jobs.apple.com/en-us/details/200575889" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Senior Software Engineer - Custody Services** | BITGO INC | New York, NY | Oct 26 | <a href="https://boards.greenhouse.io/bitgo/jobs/7702054002?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Senior Software Engineer - Custody Services** | BITGO INC | Palo Alto, CA | Oct 26 | <a href="https://boards.greenhouse.io/bitgo/jobs/7702053002?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Software Engineer - Custody Services** | BITGO INC | New York, NY | Oct 26 | <a href="https://boards.greenhouse.io/bitgo/jobs/7702044002?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
@@ -106,8 +107,8 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 | **Staff Data Scientist - Anti-Cheat** | RIOT GAMES INC | Los Angeles, USA | Oct 25 | <a href="https://www.riotgames.com/en/work-with-us/job/6202351?gh_jid=6202351&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Staff Data Analyst, People Analytics** | OKTA INC | Bellevue, WA; Chicago, IL | Oct 25 | <a href="https://www.okta.com/company/careers/opportunity/6345614?gh_jid=6345614&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Senior Software Engineer** | Microsoft | Redmond, Washington, United States | Oct 25 | <a href="https://jobs.careers.microsoft.com/us/en/job/1776659" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Web Solutions Engineer, gTech Analytics, Platforms and Tools** | Google | Boulder, CO, USA | Oct 25 | <a href="https://www.google.com/about/careers/applications/jobs/results/95058282917307078" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Mechatronics Engineer, Data Center Automation Services** | Google | Moncks Corner, SC, USA | Oct 25 | <a href="https://www.google.com/about/careers/applications/jobs/results/137481242562962118" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
+| **Web Solutions Engineer, gTech Analytics, Platforms and Tools** | Google | Boulder, CO, USA | Oct 25 | <a href="https://www.google.com/about/careers/applications/jobs/results/95058282917307078" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Director, AI Strategy** | GHD INC | Hartford, Connecticut, United States | Oct 25 | <a href="https://boards.greenhouse.io/ghd/jobs/6352418?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Director, AI Strategy** | GHD INC | Boston, Massachusetts, United States | Oct 25 | <a href="https://boards.greenhouse.io/ghd/jobs/6352417?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Web Developer, Marketing ** | BENCHLING INC | San Francisco, CA | Oct 25 | <a href="https://boards.greenhouse.io/benchling/jobs/6352369?gh_jid=6352369&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
@@ -142,5 +143,4 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 | **Staff Software Engineer, Tracking** | STACK AV CO | Pittsburgh, PA or Remote | Oct 25 | <a href="https://boards.greenhouse.io/stackav/jobs/4550683007?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Sales Operations Analyst - Commissions** | ANGI INC | Denver, CO - Remote | Oct 25 | <a href="https://job-boards.greenhouse.io/angi/jobs/7700452002?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Sales Operations Analyst - Commissions** | ANGI INC | New York - Remote | Oct 25 | <a href="https://job-boards.greenhouse.io/angi/jobs/7700453002?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Lead Software Engineer - Email Campaign Pipeline** | KLAVIYO INC | Boston, MA | Oct 25 | <a href="http://www.klaviyo.com/careers/jobs?gh_jid=6254920003&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 
