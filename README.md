@@ -1,7 +1,7 @@
 
 # Tech Job Listings
 
-*Updated on Nov 30, 2024*
+*Updated on Dec 01, 2024*
 
 
 ## About This Repository
@@ -43,6 +43,7 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 
 | Job Title | Company | Location | Date Posted | Apply |
 |-----------|---------|----------|-------------|------------|
+| **Software Engineer II** | Microsoft | Vancouver, British Columbia, Canada | Nov 29 | <a href="https://jobs.careers.microsoft.com/us/en/job/1787295" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Software Engineer I** | PDI Technologies | Maidenhead, UK | Nov 29 | <a href="https://jobs.lever.co/pditechnologies/10399232-feaf-46f7-af77-154c9ac6b046/apply" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Software Engineer I** | PDI Technologies | Maidenhead, UK | Nov 29 | <a href="https://jobs.lever.co/pditechnologies/a5ad0d2d-d1d2-491e-a011-3ddaca65cb75/apply" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **UI Designer** | WUNDERMAN THOMPSON LLC | Toronto, Ontario, Canada | Nov 29 | <a href="https://www.vml.com/careers/job/7419044002?gh_jid=7419044002&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
@@ -103,8 +104,8 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 | **Quality Assurance Analyst, Customer Support** | PITCHBOOK DATA INC | Seattle, Washington, United States | Nov 27 | <a href="https://job-boards.greenhouse.io/pitchbookdata/jobs/4420193006?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Tax Analyst** | WEEE INC | Fremont, California, United States | Nov 27 | <a href="https://boards.greenhouse.io/weee/jobs/6283392003?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Software Engineer II, Client App** | FLEXPORT INC | Bellevue, WA | Nov 27 | <a href="https://boards.greenhouse.io/flexport/jobs/6419743?gh_jid=6419743&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Financial Reporting Manager - San Francisco** | RECURSION PHARMACEUTICALS INC | Milpitas, California, United States | Nov 27 | <a href="https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/6435412?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Financial Reporting Manager** | RECURSION PHARMACEUTICALS INC | New York, New York, United States | Nov 27 | <a href="https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/6435420?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
+| **Financial Reporting Manager - San Francisco** | RECURSION PHARMACEUTICALS INC | Milpitas, California, United States | Nov 27 | <a href="https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/6435412?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Pharmacy Business-Data Analyst** | EDGEWOOD PARTNERS INSURANCE CENTER | Remote US Based | Nov 27 | <a href="https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter/jobs/7744081002?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Staff Software Engineer (Payments)** | GOFUNDME INC | San Diego, CA | Nov 27 | <a href="https://boards.greenhouse.io/gofundme/jobs/6437805?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Principal Engineer, Machine Learning** | TESSERA THERAPEUTICS INC | Somerville, Massachusetts, United States | Nov 27 | <a href="https://job-boards.greenhouse.io/tesseratherapeutics/jobs/4558336007?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
@@ -142,5 +143,4 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 | **Finance Analyst** | RIDGELINE INC | Reno, NV | Nov 26 | <a href="https://boards.greenhouse.io/ridgeline/jobs/6283557003?gh_jid=6283557003&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Principal Software Engineering Manager** | Microsoft | Redmond, Washington, United States | Nov 26 | <a href="https://jobs.careers.microsoft.com/us/en/job/1786761" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Software Engineer, Mobile Native AR Mapping** | NIANTIC INC | San Francisco, CA | Nov 26 | <a href="https://job-boards.greenhouse.io/niantic/jobs/7691780002?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Senior Software Engineer** | Microsoft | Redmond, Washington, United States | Nov 26 | <a href="https://jobs.careers.microsoft.com/us/en/job/1787948" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 
