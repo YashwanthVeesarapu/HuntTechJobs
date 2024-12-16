@@ -1,7 +1,7 @@
 
 # Tech Job Listings
 
-*Updated on Dec 15, 2024*
+*Updated on Dec 16, 2024*
 
 
 ## About This Repository
@@ -118,7 +118,6 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 | **Senior Software Engineer** | AURORA INNOVATION INC | Seattle, Washington | Dec 13 | <a href="https://aurora.tech/jobs/7773439002?gh_jid=7773439002&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Manager, Technical Accounting** | REDWOOD MATERIALS INC | Carson City, Nevada, United States | Dec 13 | <a href="https://boards.greenhouse.io/redwoodmaterials/jobs/5399082004?gh_jid=5399082004&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Staff ML Engineer, Static World Perception** | STACK AV CO | Pittsburgh, PA or Remote | Dec 13 | <a href="https://boards.greenhouse.io/stackav/jobs/4601020007?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Revenue Operations Analyst** | CONNECTWISE LLC | Tampa, FL | Dec 13 | <a href="https://job-boards.greenhouse.io/connectwise/jobs/4505512005?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Manager, Financial Close and Reporting** | COREWEAVE INC | Livingston, NJ / New York, NY / Sunnyvale, CA / Seattle, WA | Dec 13 | <a href="https://boards.greenhouse.io/coreweave/jobs/4426384006?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Sr Director, Cloud Service Providers** | CRIBL INC | Remote - San Francisco, California | Dec 13 | <a href="https://cribl.io/job-detail/?gh_jid=5399351004&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Sr. Software Engineer II, Backend - Build Experiences (Remote Eligible) ** | SMARTSHEET INC | -REMOTE, USA- | Dec 13 | <a href="https://job-boards.greenhouse.io/smartsheet/jobs/6471958?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
@@ -143,4 +142,5 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 | **Payments Strategy Analyst** | AIRBNB INC | United States  | Dec 13 | <a href="https://careers.airbnb.com/positions/6471310?gh_jid=6471310&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **AWS - Senior Engineering Manager** | HITACHI DIGITAL SERVICES LLC | Dallas, Texas | Dec 13 | <a href="https://hitachids.com/careers/job-details/?jid=7769588002&gh_jid=7769588002&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Full Stack Web Engineer** | Apple | Seattle | Dec 13 | <a href="https://jobs.apple.com/en-us/details/200563326" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
+| **Software Engineer II - Frontend** | TANIUM INC | Durham, NC (Hybrid) | Dec 13 | <a href="https://www.tanium.com/careers/6470174?gh_jid=6470174&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 
