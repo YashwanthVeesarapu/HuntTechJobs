@@ -1,7 +1,7 @@
 
 # Tech Job Listings
 
-*Updated on Dec 28, 2024*
+*Updated on Dec 29, 2024*
 
 
 ## About This Repository
@@ -44,7 +44,9 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 | Job Title | Company | Location | Date Posted | Apply |
 |-----------|---------|----------|-------------|------------|
 | **Senior Staff Machine Learning Engineer, Ads Measurement** | REDDIT INC | Remote - United States | Dec 28 | <a href="https://job-boards.greenhouse.io/reddit/jobs/6499299?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
+| **Senior Data Scientist** | Microsoft | Vancouver, British Columbia, Canada | Dec 27 | <a href="https://jobs.careers.microsoft.com/us/en/job/1795949" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Senior Deal Desk Analyst** | EMBURSE INC | United States | Dec 27 | <a href="https://jobs.lever.co/emburse/1089bdda-1ba0-4ffc-9013-47f82e32abef?lever-source=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
+| **Software Engineer II** | Microsoft | Redmond, Washington, United States | Dec 27 | <a href="https://jobs.careers.microsoft.com/us/en/job/1798098" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Senior Software Engineer, Orders API** | TOAST INC | Remote, US | Dec 27 | <a href="https://careers.toasttab.com/jobs?gh_jid=6476771&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Post-training Software Engineer, Full Stack** | X AI CORP | San Francisco & Palo Alto, CA | Dec 27 | <a href="https://boards.greenhouse.io/xai/jobs/4612616007?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Data Center Technician, Engineering Field Services** | Google | Austin, TX, USA | Dec 27 | <a href="https://www.google.com/about/careers/applications/jobs/results/125905779365421766" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
@@ -141,6 +143,4 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 | **Staff Software Engineer, Golang** | GROQ INC | Palo Alto, CA (Hybrid) | Dec 23 | <a href="https://groq.com/careers?gh_jid=6308542003&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Staff Data Scientist, Decisions - Rider Segment** | LYFT INC | New York, NY | Dec 23 | <a href="https://app.careerpuck.com/job-board/lyft/job/7789931002?gh_jid=7789931002&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Staff Data Scientist, Decisions - Rider Segment** | LYFT INC | San Francisco, CA | Dec 23 | <a href="https://app.careerpuck.com/job-board/lyft/job/7789872002?gh_jid=7789872002&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Full Stack Developer** | HITACHI DIGITAL SERVICES LLC | Dallas, Texas | Dec 23 | <a href="https://hitachids.com/careers/job-details/?jid=7783882002&gh_jid=7783882002&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Underwriting Analyst** | DUETTI INC | New York, Los Angeles, Miami | Dec 23 | <a href="https://jobs.lever.co/duetti/2ce07e37-8328-4a9a-9d1d-0dbcce52817b?lever-source=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 
