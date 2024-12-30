@@ -1,7 +1,7 @@
 
 # Tech Job Listings
 
-*Updated on Dec 29, 2024*
+*Updated on Dec 30, 2024*
 
 
 ## About This Repository
@@ -43,11 +43,12 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 
 | Job Title | Company | Location | Date Posted | Apply |
 |-----------|---------|----------|-------------|------------|
+| **Marketing Technology Analyst, AJO (Contract)** | BOUNTEOUS INC | United States | Dec 29 | <a href="https://jobs.lever.co/bounteous/fef596bf-990e-4936-b7ff-a36821fb023a?lever-source=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
+| **Software Automation Engineer - Test Platforms** | Apple | San Diego | Dec 29 | <a href="https://jobs.apple.com/en-us/details/200584710" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Senior Staff Machine Learning Engineer, Ads Measurement** | REDDIT INC | Remote - United States | Dec 28 | <a href="https://job-boards.greenhouse.io/reddit/jobs/6499299?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Senior Data Scientist** | Microsoft | Vancouver, British Columbia, Canada | Dec 27 | <a href="https://jobs.careers.microsoft.com/us/en/job/1795949" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Senior Deal Desk Analyst** | EMBURSE INC | United States | Dec 27 | <a href="https://jobs.lever.co/emburse/1089bdda-1ba0-4ffc-9013-47f82e32abef?lever-source=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Software Engineer II** | Microsoft | Redmond, Washington, United States | Dec 27 | <a href="https://jobs.careers.microsoft.com/us/en/job/1798098" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Senior Software Engineer, Orders API** | TOAST INC | Remote, US | Dec 27 | <a href="https://careers.toasttab.com/jobs?gh_jid=6476771&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Post-training Software Engineer, Full Stack** | X AI CORP | San Francisco & Palo Alto, CA | Dec 27 | <a href="https://boards.greenhouse.io/xai/jobs/4612616007?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Data Center Technician, Engineering Field Services** | Google | Austin, TX, USA | Dec 27 | <a href="https://www.google.com/about/careers/applications/jobs/results/125905779365421766" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Technical Program Manager** | TRACKONOMY SYSTEMS INC | San Jose, CA | Dec 27 | <a href="https://trackonomysystems.com/career-details/?gh_jid=5407124004&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
@@ -142,5 +143,4 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 | **Staff Software Engineer, Growth & Monetization** | GROQ INC | Palo Alto, CA (Hybrid) | Dec 23 | <a href="https://groq.com/careers?gh_jid=6308513003&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Staff Software Engineer, Golang** | GROQ INC | Palo Alto, CA (Hybrid) | Dec 23 | <a href="https://groq.com/careers?gh_jid=6308542003&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Staff Data Scientist, Decisions - Rider Segment** | LYFT INC | New York, NY | Dec 23 | <a href="https://app.careerpuck.com/job-board/lyft/job/7789931002?gh_jid=7789931002&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Staff Data Scientist, Decisions - Rider Segment** | LYFT INC | San Francisco, CA | Dec 23 | <a href="https://app.careerpuck.com/job-board/lyft/job/7789872002?gh_jid=7789872002&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 
