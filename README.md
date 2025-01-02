@@ -1,7 +1,7 @@
 
 # Tech Job Listings
 
-*Updated on Jan 01, 2025*
+*Updated on Jan 02, 2025*
 
 
 ## About This Repository
@@ -43,9 +43,11 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 
 | Job Title | Company | Location | Date Posted | Apply |
 |-----------|---------|----------|-------------|------------|
+| **Information Security Senior Analyst - Compliance** | ALIXPARTNERS LLP | Detroit | Jan 02 | <a href="https://www.alixpartners.com/careers/6309173003?gh_jid=6309173003&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
+| **Clinical Systems Analyst** | ALTERA DIGITAL HEALTH INC | Mobile, Alabama, United States | Jan 02 | <a href="https://job-boards.greenhouse.io/alteradigitalhealth/jobs/4605863007?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Software Engineer II** | Microsoft | Redmond, Washington, United States | Jan 01 | <a href="https://jobs.careers.microsoft.com/us/en/job/1796646" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Software Engineer II** | Microsoft | Mountain View, California, United States | Dec 31 | <a href="https://jobs.careers.microsoft.com/us/en/job/1794413" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Scaled Solutions and Insights Data Analyst** | Microsoft | San Jose, San José, Costa Rica | Dec 31 | <a href="https://jobs.careers.microsoft.com/us/en/job/1797164" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
+| **Software Engineer II** | Microsoft | Mountain View, California, United States | Dec 31 | <a href="https://jobs.careers.microsoft.com/us/en/job/1794413" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Senior Software Security Engineer** | EVERLAW INC | Oakland, California, United States | Dec 31 | <a href="https://boards.greenhouse.io/everlaw/jobs/4430406006?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **SDR Operations Analyst** | AGILOFT INC | United States | Dec 31 | <a href="https://jobs.lever.co/agiloft/15296424-39cf-4d6c-9409-9ea4b1741609?lever-source=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Software Engineer II** | Microsoft | Atlanta, Georgia, United States | Dec 31 | <a href="https://jobs.careers.microsoft.com/us/en/job/1794365" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
@@ -141,6 +143,4 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 | **Full Stack Software Engineer - Internal Tools** | Apple | San Diego | Dec 23 | <a href="https://jobs.apple.com/en-us/details/200584837" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Data Analytics Engineer - US (Remote)** | LUXURY PRESENCE INC | United States | Dec 23 | <a href="https://jobs.lever.co/luxurypresence/b1c41a9f-06de-4944-a284-6c3c17526083?lever-source=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Technical Program Manager, Gen AI** | SCALE AI INC | San Francisco, CA | Dec 23 | <a href="https://job-boards.greenhouse.io/scaleai/jobs/4511515005?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Cloud Support Engineer** | MERQUBE INC | New York  | Dec 23 | <a href="https://job-boards.greenhouse.io/merqube/jobs/4392116006?gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **AIML - Software Engineer, Siri Cross Device, Siri and Information Intelligence** | Apple | Seattle | Dec 23 | <a href="https://jobs.apple.com/en-us/details/200584621" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 
