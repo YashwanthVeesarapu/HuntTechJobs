@@ -3,7 +3,7 @@ import datetime
 import os
 
 # Define the API endpoint
-api_url = "https://api.redsols.us/job/listings/all"  # Replace with your API URL
+api_url = "https://api.redsols.com/job/listings/all"  # Replace with your API URL
 
 # Fetch data from the API
 response = requests.get(api_url, headers={"Authorization" : "Bearer "+os.environ['SECRET_KEY']})
@@ -55,8 +55,6 @@ Hunt by Redsols is getting even better! Now you can:
 - Upvote relevant jobs to help the community surface the best opportunities.
 - Track your applications with a simple click. The "Apply" button will turn green once you've submitted your application, preventing accidental re-applications. (Just remember, application data is stored locally on your browser, so be mindful when clearing cookies and browsing data.)
 
-Like and comment on your post with #HuntForYourDreamJob to increase visibility.
-Share the post with your network of tech professionals to help reach those in need.
 
 You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 
