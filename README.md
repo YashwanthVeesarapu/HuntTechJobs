@@ -18,7 +18,7 @@ This repository contains job listings for tech professionals, including:
 
 ### About Hunt by Redsols
 
-For all job seekers out there, let's be honest: the job search can be brutal these days. I recently went through it myself, feeling overwhelmed by irrelevant postings. So, I decided to create a solution: Hunt by Redsols ([hunt.redsols.us](https://hunt.redsols.us)).
+For all job seekers out there, let's be honest: the job search can be brutal these days. I recently went through it myself, feeling overwhelmed by irrelevant postings. So, I decided to create a solution: Hunt by Redsols ([hunt.redsols.com](https://hunt.redsols.com)).
 
 Hunt by Redsols is a job board specifically designed for tech professionals like Software Engineers, Data Analysts, Full Stack Engineers (Frontend & Backend), and AI specialists. It curates clean and direct listings, saving you time and frustration in this competitive market.
 
@@ -29,7 +29,7 @@ Hunt by Redsols is getting even better! Now you can:
 - Track your applications with a simple click. The "Apply" button will turn green once you've submitted your application, preventing accidental re-applications. (Just remember, application data is stored locally on your browser, so be mindful when clearing cookies and browsing data.)
 
 
-You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
+You can email your feedback at [hunt@redsols.com](mailto:hunt@redsols.com).
 
 ### Tags
 #SoftwareEngineer #DataAnalyst #FullStackEngineer #FrontendDeveloper #BackendDeveloper #AI #JobSearch #Jobs #TechJobs
