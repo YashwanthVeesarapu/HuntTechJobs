@@ -1,7 +1,7 @@
 
 # Tech Job Listings
 
-*Updated on Apr 19, 2025*
+*Updated on Apr 20, 2025*
 
 
 ## About This Repository
@@ -41,6 +41,10 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 
 | Job Title | Company | Location | Date Posted | Apply |
 |-----------|---------|----------|-------------|------------|
+| **Software Development Engineer II** | Amazon | Seattle, Washington, USA | Apr 19 | <a href="https://www.amazon.jobs/en/jobs/2959892/software-development-engineer-ii" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
+| **Senior Software Engineer, Developer Experience ** | Vanta | USA | Apr 18 | <a href="https://jobs.ashbyhq.com/Vanta/dbd4e02c-0c6c-4031-a658-f57e88ec9943?ref=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
+| **Software Engineer I (San Francisco)** | Jerry | United States | Apr 18 | <a href="https://jobs.ashbyhq.com/Jerry/9458cca3-9c58-4aad-a579-7f5720c7ec87?ref=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
+| **Data Scientist** | Jerry | United States | Apr 18 | <a href="https://jobs.ashbyhq.com/Jerry/947fb7ae-82dd-401a-8bbb-356edb1e14c8?ref=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Operational Risk Analyst, Business Resiliency** | COINBASE INC | Remote - USA | Apr 18 | <a href="https://www.coinbase.com/careers/positions/6799351?gh_jid=6799351&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Data Engineer** | CRUNCHYROLL LLC | San Francisco, CA, United States | Apr 18 | <a href="https://boards.greenhouse.io/crunchyroll/jobs/6795191?gh_jid=6795191&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Data Engineer** | CRUNCHYROLL LLC | Los Angeles, California, United States | Apr 18 | <a href="https://boards.greenhouse.io/crunchyroll/jobs/6820017?gh_jid=6820017&gh_src=redsols" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
@@ -137,8 +141,4 @@ You can email your feedback at [hunt@redsols.us](mailto:hunt@redsols.us).
 | **Software Developer 3** | Oracle | US | Apr 18 | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/289641" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Financial Institutions Group - Insurance - Payments - Sales Associate** | Chase | US | Apr 18 | <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/job/210618984" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 | **Principal Software Engineer, Service Continuity Engineering** | Oracle | US | Apr 18 | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/289621" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Principal Software Developer** | Oracle | US | Apr 18 | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/289656" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Sr Lead Software Engineer - AI Suggestions** | Chase | US | Apr 18 | <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/job/210616719" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **IDGCS Operations Business Analyst** | Oracle | US | Apr 18 | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/263312" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
-| **Software Development Engineer, Consumer Domains** | Amazon | Newark, New Jersey, USA | Apr 18 | <a href="https://www.amazon.jobs/en/jobs/2959651/software-development-engineer-consumer-domains" style="background-color: #870000; color: #ffffff; padding: 4px 8px; text-decoration: none; border-radius: 4px;" target="_blank">Apply</a> |
 
