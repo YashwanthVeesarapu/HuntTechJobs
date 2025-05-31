@@ -30,12 +30,8 @@ for idx, job in enumerate(data):  # Limit to the first 50 jobs
     row_style = "background-color: #f9f9f9;" if idx % 2 == 0 else "background-color: #fff;"
     # Enhanced Apply button with emoji and bolder style
     apply_button = (
-        f'<a href="{job["url"]}" '
-        f'style="display: inline-block; background: linear-gradient(90deg, #870000 0%, #190A05 100%); '
-        f'color: #fff; font-weight: bold; padding: 6px 18px; border-radius: 6px; text-decoration: none; '
-        f'box-shadow: 0 2px 6px rgba(135,0,0,0.15); font-size: 1em;" target="_blank">'
-        f'🚀 Apply'
-        f'</a>'
+        f'<a href="{job["url"]}" style="color: #fff; background-color: #007bff; padding: 5px 10px; border-radius: 5px; text-decoration: none;">'
+        'Apply</a>'
     )
     job_listings += (
         f'<tr style="{row_style}"><td><b>{job["title"]}</b></td>'
