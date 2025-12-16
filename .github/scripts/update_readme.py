@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Define the API endpoint
-api_url = "https://api.redsols.com/job/listings/all"  # Replace with your API URL
+api_url = "https://api.redsols.com/hunt/job/listings/all"  # Replace with your API URL
 
 # Fetch data from the API
 response = requests.get(api_url, headers={"Authorization" : "Bearer "+ os.getenv("SECRET_KEY")})
