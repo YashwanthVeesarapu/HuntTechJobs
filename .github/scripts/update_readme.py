@@ -94,52 +94,21 @@ additional_info = """
   <img src=\"https://img.shields.io/badge/No%20Spam-Guaranteed-success\" alt=\"No Spam\" />
 </p>
 
-<h1 align=\"center\">🚀 Hunt by Redsols</h1>
+<h1 align=\"center\">Hunt by Redsols</h1>
 
----
+<p align=\"center\">Curated tech jobs with a limited GitHub preview and the full experience on <a href=\"https://hunt.redsols.com\">hunt.redsols.com</a>.</p>
 
-## About This Repository
+<p align=\"center\">
+  <a href=\"https://hunt.redsols.com\"><b>Browse the full board</b></a>
+</p>
 
-This repository contains job listings for tech professionals, including:
+### Why use this
 
-- Software Engineers
-- Full Stack Engineers (Frontend & Backend)
-- Frontend Developers
-- Backend Developers
-- Data Analysts
-- Data Engineers
-- Data Scientists
+- Fresh tech jobs, updated daily
+- GitHub shows a preview only
+- Full browsing and filters live on the site
 
----
-
-## <span style=\"color:#870000;font-weight:bold;\">About Hunt by Redsols</span>
-
-> <span style=\"font-size:1.1em;\">For all job seekers out there, let's be honest: the job search can be brutal these days. I recently went through it myself, feeling overwhelmed by irrelevant postings. So, I decided to create a solution: <b>Hunt by Redsols</b> ([hunt.redsols.com](https://hunt.redsols.com)).</span>
-
-Hunt by Redsols is a job board specifically designed for tech professionals like Software Engineers, Data Analysts, Full Stack Engineers (Frontend & Backend), and AI specialists. It curates clean and direct listings, saving you time and frustration in this competitive market.
-
-<div align=\"center\">
-  <img src=\"https://img.icons8.com/color/96/000000/job.png\" width=\"60\" alt=\"Job Board\"/>
-</div>
-
-This started as a personal project, but I realized others could benefit too! Let's build this community together and help it reach the people who need it most! Please share this post with your network of tech professionals, especially Software Engineers, Data Analysts, Full Stack Engineers (Frontend & Backend), and AI specialists. Comment down below with the hashtag <b>#HuntForYourDreamJob</b> to help spread the word! Feedback on the platform is always welcome.
-
----
-
-## ✨ Features
-
-- <b>Track your applications</b> with a simple click. The "Apply" button will turn green once you've submitted your application, preventing accidental re-applications. (Just remember, application data is stored locally on your browser, so be mindful when clearing cookies and browsing data.)
-- <b>Clean, direct listings</b> with no spam or irrelevant jobs.
-- <b>Community-driven improvements</b> and feedback welcome!
-
----
-
-You can email your feedback at [hunt@redsols.com](mailto:hunt@redsols.com).
-
----
-
-### Tags
-#SoftwareEngineer #DataAnalyst #FullStackEngineer #FrontendDeveloper #BackendDeveloper #AI #JobSearch #Jobs #TechJobs
+You can email feedback at [hunt@redsols.com](mailto:hunt@redsols.com).
 """
 
 summary = f"""
@@ -149,7 +118,6 @@ summary = f"""
 - Showing on GitHub: **{len(visible_jobs)}**
 - Latest posting: **{latest_posted_text}**
 - Full experience: [hunt.redsols.com](https://hunt.redsols.com)
-
 """
 
 readme_content = f"""
