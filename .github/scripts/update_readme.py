@@ -1,46 +1,84 @@
-import requests
 import datetime
+import html
 import os
+
+import requests
 from dotenv import load_dotenv
 
 load_dotenv()
 
-# Define the API endpoint
-api_url = "https://api.redsols.com/hunt/job/listings/all"  # Replace with your API URL
+API_URL = "https://api.redsols.com/hunt/job/listings/all"
+README_JOB_LIMIT = int(os.getenv("README_JOB_LIMIT", "25"))
 
-# Fetch data from the API
-response = requests.get(api_url, headers={"Authorization" : "Bearer "+ os.getenv("SECRET_KEY")})
-if response.status_code != 200:
-    raise Exception(f"Failed to fetch data from API: {response.text}")
+
+def format_date(timestamp):
+    return datetime.datetime.fromtimestamp(float(timestamp)).strftime("%b %d")
+
+
+def escape_text(value):
+    if value is None:
+        return "N/A"
+    return html.escape(str(value))
+
+
+def format_locations(locations):
+    if not locations:
+        return "N/A"
+    if isinstance(locations, str):
+        locations = [locations]
+    return escape_text(", ".join(str(location) for location in locations if location))
+
+
+def job_timestamp(job):
+    try:
+        return float(job.get("date_posted", 0))
+    except (TypeError, ValueError):
+        return 0.0
+
+
+secret_key = os.getenv("SECRET_KEY")
+if not secret_key:
+    raise RuntimeError("SECRET_KEY is required")
+
+
+response = requests.get(
+    API_URL,
+    headers={"Authorization": f"Bearer {secret_key}"},
+    timeout=30,
+)
+response.raise_for_status()
 
 data = response.json()
 
-# Function to convert timestamp to desired date format
-def format_date(timestamp):
-    return datetime.datetime.fromtimestamp(timestamp).strftime("%b %d")
+if not isinstance(data, list):
+    raise RuntimeError("Expected API to return a list of jobs")
 
-# Get the current date in the desired format
+data = sorted(data, key=job_timestamp, reverse=True)
+visible_jobs = data[:README_JOB_LIMIT]
+
 current_date = datetime.datetime.now().strftime("%b %d, %Y")
+latest_posted = next((job.get("date_posted") for job in data if job.get("date_posted")), None)
+latest_posted_text = format_date(latest_posted) if latest_posted else "N/A"
 
-# Format the data into a visually enhanced markdown table
 job_listings = ""
-# job_listings = "| Job Title | 🏢 Company | 📍 Location | 📅 Date Posted | Apply |\n"
-# job_listings += "|-----------|------------|-------------|-------------|:------:|\n"
-for idx, job in enumerate(data):  # Limit to the first 50 jobs
+for idx, job in enumerate(visible_jobs):
     row_style = "background-color: #f9f9f9;" if idx % 2 == 0 else "background-color: #fff;"
-    # Enhanced Apply button with emoji and bolder style
+    job_url = job.get("url")
     apply_button = (
-        f'<a href="{job["url"]}" style="color: #fff; background-color: #007bff; padding: 5px 10px; border-radius: 5px; text-decoration: none;">'
+        f'<a href="{html.escape(str(job_url), quote=True)}" '
+        'style="color: #fff; background-color: #007bff; padding: 5px 10px; border-radius: 5px; text-decoration: none;">'
         'Apply</a>'
+        if job_url
+        else "N/A"
     )
     job_listings += (
-        f'<tr style="{row_style}"><td><b>{job["title"]}</b></td>'
-        f'<td>{job["company_name"]}</td>'
-        f'<td>{", ".join(job["locations"])}</td>'
-        f'<td>{format_date(job["date_posted"])}</td>'
+        f'<tr style="{row_style}"><td><b>{escape_text(job.get("title"))}</b></td>'
+        f'<td>{escape_text(job.get("company_name"))}</td>'
+        f'<td>{format_locations(job.get("locations"))}</td>'
+        f'<td>{format_date(job.get("date_posted")) if job.get("date_posted") else "N/A"}</td>'
         f'<td>{apply_button}</td></tr>\n'
     )
-# Wrap the table in <table> for HTML rendering in markdown
+
 job_listings = (
     '<table>\n'
     '<thead>\n'
@@ -49,7 +87,6 @@ job_listings = (
     '<tbody>\n' + job_listings + '</tbody>\n</table>'
 )
 
-# Additional information about the repository
 additional_info = """
 <p align=\"center\">
   <img src=\"https://img.shields.io/badge/Tech%20Jobs-Updated%20Daily-brightgreen\" alt=\"Tech Jobs\" />
@@ -105,7 +142,16 @@ You can email your feedback at [hunt@redsols.com](mailto:hunt@redsols.com).
 #SoftwareEngineer #DataAnalyst #FullStackEngineer #FrontendDeveloper #BackendDeveloper #AI #JobSearch #Jobs #TechJobs
 """
 
-# Update the README content
+summary = f"""
+## Snapshot
+
+- Total jobs available: **{len(data)}**
+- Showing on GitHub: **{len(visible_jobs)}**
+- Latest posting: **{latest_posted_text}**
+- Full experience: [hunt.redsols.com](https://hunt.redsols.com)
+
+"""
+
 readme_content = f"""
 # Tech Job Listings
 
@@ -115,11 +161,13 @@ readme_content = f"""
 
 ---
 
+{summary}
+
 ## Latest Jobs
 
 {job_listings}
+
 """
 
-# Write the updated content to README.md
 with open("README.md", "w") as readme_file:
     readme_file.write(readme_content)
