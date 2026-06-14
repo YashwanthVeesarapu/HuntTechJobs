@@ -1,7 +1,7 @@
 
 # Tech Job Listings
 
-*Updated on Jun 13, 2026*
+*Updated on Jun 14, 2026*
 
 
 <p align="center">
@@ -34,7 +34,7 @@ You can email feedback at [hunt@redsols.com](mailto:hunt@redsols.com).
 
 - Total jobs available: **100**
 - Showing on GitHub: **25**
-- Latest posting: **Jun 13**
+- Latest posting: **Jun 14**
 - Full experience: [hunt.redsols.com](https://hunt.redsols.com)
 
 
@@ -45,6 +45,10 @@ You can email feedback at [hunt@redsols.com](mailto:hunt@redsols.com).
 <tr><th>Job Title</th><th>🏢 Company</th><th>📍 Location</th><th>📅 Date Posted</th><th>Apply</th></tr>
 </thead>
 <tbody>
+<tr style="background-color: #f9f9f9;"><td><b>Machine Learning Engineering Manager - Ads Engagement Modeling </b></td><td>REDDIT INC</td><td>Remote - United States</td><td>Jun 14</td><td><a href="https://job-boards.greenhouse.io/reddit/jobs/7993514?gh_src=redsols" style="color: #fff; background-color: #007bff; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Apply</a></td></tr>
+<tr style="background-color: #fff;"><td><b>Software Engineer/Principal Software Engineer - Data Analyst</b></td><td>Northrop Grumman</td><td>Escondido, CA, Palmdale, CA</td><td>Jun 13</td><td><a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer-Principal-Software-Engineer---Data-Analyst_R10234157" style="color: #fff; background-color: #007bff; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Apply</a></td></tr>
+<tr style="background-color: #f9f9f9;"><td><b>Software Engineer/Principal Software Engineer - Java</b></td><td>Northrop Grumman</td><td>Escondido, CA</td><td>Jun 13</td><td><a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer-Principal-Software-Engineer---JAVA_R10234156" style="color: #fff; background-color: #007bff; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Apply</a></td></tr>
+<tr style="background-color: #fff;"><td><b>Machine Learning Engineer, Simulation Evaluation</b></td><td>WAYMO LLC</td><td>Mountain View, CA, USA; San Francisco, CA, USA</td><td>Jun 13</td><td><a href="https://careers.withwaymo.com/jobs?gh_jid=8001797&amp;gh_src=redsols" style="color: #fff; background-color: #007bff; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Apply</a></td></tr>
 <tr style="background-color: #f9f9f9;"><td><b>Data Analyst - Supply Chain</b></td><td>The Home Depot</td><td>Atlanta, GA</td><td>Jun 13</td><td><a href="https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Data-Analyst---Supply-Chain_Req181388-1" style="color: #fff; background-color: #007bff; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Apply</a></td></tr>
 <tr style="background-color: #fff;"><td><b>Software Dev Engineer II, ECR - Private</b></td><td>Amazon</td><td>Seattle, Washington, USA</td><td>Jun 13</td><td><a href="https://www.amazon.jobs/en/jobs/10448402/software-dev-engineer-ii-ecr-private" style="color: #fff; background-color: #007bff; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Apply</a></td></tr>
 <tr style="background-color: #f9f9f9;"><td><b>Senior Machine Learning Engineer, Sponsored Products and Brands Relevance</b></td><td>Amazon</td><td>Palo Alto, California, USA</td><td>Jun 13</td><td><a href="https://www.amazon.jobs/en/jobs/10448365/senior-machine-learning-engineer-sponsored-products-and-brands-relevance" style="color: #fff; background-color: #007bff; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Apply</a></td></tr>
@@ -66,10 +70,6 @@ You can email feedback at [hunt@redsols.com](mailto:hunt@redsols.com).
 <tr style="background-color: #f9f9f9;"><td><b>Applied Scientist</b></td><td>JUUL LABS INC</td><td>Remote - United States</td><td>Jun 12</td><td><a href="https://job-boards.greenhouse.io/juullabs/jobs/8003749?gh_src=redsols" style="color: #fff; background-color: #007bff; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Apply</a></td></tr>
 <tr style="background-color: #fff;"><td><b>Senior Software Engineer, Strategic Integrations</b></td><td>Attentive</td><td>United States</td><td>Jun 12</td><td><a href="https://job-boards.greenhouse.io/attentive/jobs/4260923009?gh_src=redsols" style="color: #fff; background-color: #007bff; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Apply</a></td></tr>
 <tr style="background-color: #f9f9f9;"><td><b>Lead Insurance Data Scientist</b></td><td>EDGEWOOD PARTNERS INSURANCE CENTER</td><td>125 S Wacker Dr, Suite 3150, Chicago, IL 60606</td><td>Jun 12</td><td><a href="https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter/jobs/8590410002?gh_src=redsols" style="color: #fff; background-color: #007bff; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Apply</a></td></tr>
-<tr style="background-color: #fff;"><td><b>Lead Insurance Data Scientist</b></td><td>EDGEWOOD PARTNERS INSURANCE CENTER</td><td>14881 Quorum Drive Suite 850,  Dallas, TX 75254</td><td>Jun 12</td><td><a href="https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter/jobs/8590409002?gh_src=redsols" style="color: #fff; background-color: #007bff; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Apply</a></td></tr>
-<tr style="background-color: #f9f9f9;"><td><b>Lead Insurance Data Scientist</b></td><td>EDGEWOOD PARTNERS INSURANCE CENTER</td><td>1140 Avenue of the Americas 8th Floor,  New York, NY 10036</td><td>Jun 12</td><td><a href="https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter/jobs/8590400002?gh_src=redsols" style="color: #fff; background-color: #007bff; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Apply</a></td></tr>
-<tr style="background-color: #fff;"><td><b>Lead Insurance Data Scientist</b></td><td>EDGEWOOD PARTNERS INSURANCE CENTER</td><td>5909 Peachtree Dunwoody Rd Bldg D Ste 800,  Atlanta, GA 30328</td><td>Jun 12</td><td><a href="https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter/jobs/8590398002?gh_src=redsols" style="color: #fff; background-color: #007bff; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Apply</a></td></tr>
-<tr style="background-color: #f9f9f9;"><td><b>Senior Software Engineer, Agent Foundry</b></td><td>RIDGELINE INC</td><td>Reno, NV</td><td>Jun 12</td><td><a href="https://boards.greenhouse.io/ridgeline/jobs/7772164003?gh_jid=7772164003&amp;gh_src=redsols" style="color: #fff; background-color: #007bff; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Apply</a></td></tr>
 </tbody>
 </table>
 
