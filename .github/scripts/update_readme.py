@@ -12,7 +12,10 @@ README_JOB_LIMIT = int(os.getenv("README_JOB_LIMIT", "25"))
 
 
 def format_date(timestamp):
-    return datetime.datetime.fromtimestamp(float(timestamp)).strftime("%b %d")
+    value = float(timestamp)
+    if value > 1e11:
+        value /= 1000.0
+    return datetime.datetime.fromtimestamp(value).strftime("%b %d")
 
 
 def escape_text(value):
@@ -31,7 +34,8 @@ def format_locations(locations):
 
 def job_timestamp(job):
     try:
-        return float(job.get("date_posted", 0))
+        value = float(job.get("date_posted", 0))
+        return value / 1000.0 if value > 1e11 else value
     except (TypeError, ValueError):
         return 0.0
 
