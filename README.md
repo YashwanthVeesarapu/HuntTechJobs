@@ -1,7 +1,7 @@
 
 # Tech Job Listings
 
-*Updated on Oct 10, 2026*
+*Updated on Oct 11, 2026*
 
 
 <p align="center">
@@ -34,7 +34,7 @@ You can email feedback at [hunt@redsols.com](mailto:hunt@redsols.com).
 
 - Total jobs available: **100**
 - Showing on GitHub: **25**
-- Latest posting: **Oct 10**
+- Latest posting: **Oct 11**
 - Full experience: [hunt.redsols.com](https://hunt.redsols.com)
 
 
@@ -45,6 +45,8 @@ You can email feedback at [hunt@redsols.com](mailto:hunt@redsols.com).
 <tr><th>Job Title</th><th>🏢 Company</th><th>📍 Location</th><th>📅 Date Posted</th><th>Apply</th></tr>
 </thead>
 <tbody>
+<tr style="background-color: #f9f9f9;"><td><b>Staff Software Engineer – Engineering Systems, Continuous Integration Team</b></td><td>Snowflake</td><td>United States</td><td>Oct 11</td><td><a href="https://jobs.ashbyhq.com/snowflake/f38ad1b0-00a6-490d-afcf-80a78c8b8aed?ref=redsols" style="color: #fff; background-color: #007bff; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Apply</a></td></tr>
+<tr style="background-color: #fff;"><td><b>Senior Technical Program Manager - ML/AI</b></td><td>Snowflake</td><td>United States</td><td>Oct 10</td><td><a href="https://jobs.ashbyhq.com/snowflake/2d66e411-c782-43d5-9ad5-389c4407f9c6?ref=redsols" style="color: #fff; background-color: #007bff; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Apply</a></td></tr>
 <tr style="background-color: #f9f9f9;"><td><b>Inventory Control Quality Assurance Manager - Flow Center - Riverside, California</b></td><td>Target</td><td>23000 Van Buren Blvd, Riverside,CA 92518-2401</td><td>Oct 10</td><td><a href="https://target.wd5.myworkdayjobs.com/TargetCareers/job/23000-Van-Buren-Blvd-RiversideCA-92518-2401/Inventory-Control-Quality-Assurance-Manager---Flow-Center---Riverside--California_R0000476868" style="color: #fff; background-color: #007bff; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Apply</a></td></tr>
 <tr style="background-color: #fff;"><td><b>Senior Engineering Lab Manager</b></td><td>Intel</td><td>US, California, Folsom</td><td>Oct 10</td><td><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Senior-Engineering-Lab-Manager_JR0287788" style="color: #fff; background-color: #007bff; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Apply</a></td></tr>
 <tr style="background-color: #f9f9f9;"><td><b>Senior Software Engineer, Agent Performance Modeling</b></td><td>NVIDIA</td><td>US, CA, Santa Clara</td><td>Oct 10</td><td><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Agentic-AI-Engineer--Simulation-and-Evaluation_JR2023184" style="color: #fff; background-color: #007bff; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Apply</a></td></tr>
@@ -68,8 +70,6 @@ You can email feedback at [hunt@redsols.com](mailto:hunt@redsols.com).
 <tr style="background-color: #f9f9f9;"><td><b>Engineer II, Software Test and Automation (R6221)</b></td><td>SHIELD AI INC</td><td>Washington, D.C.</td><td>Oct 10</td><td><a href="https://jobs.lever.co/shieldai/ebf49595-032b-493d-a80e-3ac00eb4d0ab?lever-source=redsols" style="color: #fff; background-color: #007bff; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Apply</a></td></tr>
 <tr style="background-color: #fff;"><td><b>Engineer I, Flight Test (R6219)</b></td><td>SHIELD AI INC</td><td>San Diego, California</td><td>Oct 10</td><td><a href="https://jobs.lever.co/shieldai/0cdcb67f-0550-4f14-987f-82cc6d17ea6e?lever-source=redsols" style="color: #fff; background-color: #007bff; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Apply</a></td></tr>
 <tr style="background-color: #f9f9f9;"><td><b>Engineer II, Software - Factory (R6217)</b></td><td>SHIELD AI INC</td><td>Washington, D.C.</td><td>Oct 10</td><td><a href="https://jobs.lever.co/shieldai/681efe7f-2c2a-4830-8976-9a6f77d9d3e5?lever-source=redsols" style="color: #fff; background-color: #007bff; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Apply</a></td></tr>
-<tr style="background-color: #fff;"><td><b>Engineer I, Software Test and Automation (R6216)</b></td><td>SHIELD AI INC</td><td>Washington, D.C.</td><td>Oct 10</td><td><a href="https://jobs.lever.co/shieldai/d80f9bad-a014-475a-a018-a676eb6fbad7?lever-source=redsols" style="color: #fff; background-color: #007bff; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Apply</a></td></tr>
-<tr style="background-color: #f9f9f9;"><td><b>Staff Engineer, Supply Chain (R6215)</b></td><td>SHIELD AI INC</td><td>Seattle, Washington</td><td>Oct 10</td><td><a href="https://jobs.lever.co/shieldai/8d1b42ea-aad3-482a-bef2-86e2401d1652?lever-source=redsols" style="color: #fff; background-color: #007bff; padding: 5px 10px; border-radius: 5px; text-decoration: none;">Apply</a></td></tr>
 </tbody>
 </table>
 
